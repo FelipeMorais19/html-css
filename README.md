@@ -3,7 +3,7 @@
 
 <p>Abrir os seguintes exercicios: </p>
 
-<ul>
+<ol>
     <li>
         <a href="https://felipemorais19.github.io/html-css/exercicios/ex001/index.html"> 001</a>
     </li>
@@ -23,10 +23,14 @@
         <a href="https://felipemorais19.github.io/html-css/exercicios/ex006/index.html"> 006</a>
     </li>
     <li>
-        <a href="https://felipemorais19.github.io/html-css/exercicios/ex007/index.html"> 007</a>
+        <a href="https://felipemorais19.github.io/html-css/exercicios/ex007/html4.html"> 007/html4</a>
+        <a href="https://felipemorais19.github.io/html-css/exercicios/ex007/html5.html"> 007/html5</a>
     </li>
     <li>
         <a href="https://felipemorais19.github.io/html-css/exercicios/ex008/index.html"> 008</a>
+    </li>
+    <li>
+        <a href="https://felipemorais19.github.io/html-css/exercicios/ex008b/index.html"> 008b</a>
     </li>
     <li>
         <a href="https://felipemorais19.github.io/html-css/exercicios/ex009/index.html"> 009</a>
@@ -34,7 +38,7 @@
     <li>
         <a href="https://felipemorais19.github.io/html-css/exercicios/ex010/index.html"> 010</a>
     </li>
-</ul>
+</ol>
 
 <p>Abrir os seguintes desafios: </p>
 
