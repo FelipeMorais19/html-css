@@ -155,5 +155,32 @@
     <li>
         <a href="https://felipemorais19.github.io/html-css/desafios/desafio01/index.html">01</a>
     </li>
+    <li>
+        <a href="https://felipemorais19.github.io/html-css/desafios/desafio02/index.html">02</a>
+    </li>
+    <li>
+        <a href="https://felipemorais19.github.io/html-css/desafios/desafio03/index.html">03</a>
+    </li>
+    <li>
+        <a href="https://felipemorais19.github.io/html-css/desafios/desafio04/index.html">04</a>
+    </li>
+    <li>
+        <a href="https://felipemorais19.github.io/html-css/desafios/desafio05/index.html">05</a>
+    </li>
+    <li>
+        <a href="https://felipemorais19.github.io/html-css/desafios/desafio06/index.html">06</a>
+    </li>
+    <li>
+        <a href="https://felipemorais19.github.io/html-css/desafios/desafio07/index.html">07</a>
+    </li>
+    <li>
+        <a href="https://felipemorais19.github.io/html-css/desafios/desafio08/index.html">08</a>
+    </li>
+    <li>
+        <a href="https://felipemorais19.github.io/html-css/desafios/desafio09/index.html">09</a>
+    </li>
+    <li>
+        <a href="https://felipemorais19.github.io/html-css/desafios/desafio01/android.html">10</a>
+    </li>
 </ul>
 
