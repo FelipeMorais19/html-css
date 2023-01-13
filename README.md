@@ -65,13 +65,13 @@
     </li>
         <ul>
             <li>
-                <a href="https://felipemorais19.github.io/html-css/exercicios/ex015/cor01.html">cor01</a>
+                <a href="https://felipemorais19.github.io/html-css/exercicios/ex016/cor01.html">cor01</a>
             </li>
             <li>
-                <a href="https://felipemorais19.github.io/html-css/exercicios/ex015/cor02.html">cor02</a>
+                <a href="https://felipemorais19.github.io/html-css/exercicios/ex016/cor02.html">cor02</a>
             </li>
             <li>
-                <a href="https://felipemorais19.github.io/html-css/exercicios/ex015/cor03.html">cor03</a>
+                <a href="https://felipemorais19.github.io/html-css/exercicios/ex016/cor03.html">cor03</a>
             </li>
         </ul>   
 </ul>
