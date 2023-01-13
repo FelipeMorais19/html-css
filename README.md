@@ -153,7 +153,7 @@
 
 <ul>
     <li>
-        <a href="https://felipemorais19.github.io/html-css/desafios/desafio01">01</a>
+        <a href="https://felipemorais19.github.io/html-css/desafios/desafio01/index.html">01</a>
     </li>
     <li>
         <a href="https://felipemorais19.github.io/html-css/desafios/desafio02/index.html">02</a>
@@ -180,7 +180,7 @@
         <a href="https://felipemorais19.github.io/html-css/desafios/desafio09/index.html">09</a>
     </li>
     <li>
-        <a href="https://felipemorais19.github.io/html-css/desafios/desafio01/android.html">10</a>
+        <a href="https://felipemorais19.github.io/html-css/desafios/desafio10/android.html">10</a>
     </li>
 </ul>
 
