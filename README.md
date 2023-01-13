@@ -27,10 +27,10 @@
     </li>
         <ul>
             <li>
-                <a href="https://felipemorais19.github.io/html-css/exercicios/ex007/html4.html">007--html4</a>
+                <a href="https://felipemorais19.github.io/html-css/exercicios/ex007/html4.html">html4</a>
             </li>
             <li>
-                <a href="https://felipemorais19.github.io/html-css/exercicios/ex007/html5.html">007--html5</a>
+                <a href="https://felipemorais19.github.io/html-css/exercicios/ex007/html5.html">html5</a>
             </li>
         </ul>
     <li>
@@ -86,14 +86,45 @@
             </li>
         </ul>
     <li>
-        017
+        018
     </li>
         <ul>
             <li>
                 <a href="https://felipemorais19.github.io/html-css/exercicios/ex018/fonte01.html">fonte01</a>
             </li>
             <li>
-                <a href="https://felipemorais19.github.io/html-css/exercicios/ex018/fonte02.html">fonte02</a>
+                <a href="https://felipemorais19.github.io/html-css/exercicios/ex018/font02.html">fonte02</a>
+            </li>
+        </ul>
+    <li>
+        <a href="https://felipemorais19.github.io/html-css/exercicios/ex019/seletor01.html">019</a>
+    </li>
+    <li>
+        020
+    </li>
+        <ul>
+            <li>
+                <a href="https://felipemorais19.github.io/html-css/exercicios/ex020/hover.html">hover</a>
+            </li>
+            <li>
+                <a href="https://felipemorais19.github.io/html-css/exercicios/ex020/links.html">links</a>
+            </li>
+            <li>
+                <a href="https://felipemorais19.github.io/html-css/exercicios/ex020/pseudoclasse.html">pseudoclasse</a>
+            </li>
+        </ul>
+    <li>
+        021
+    </li>
+        <ul>
+            <li>
+                <a href="https://felipemorais19.github.io/html-css/exercicios/ex021/caixa01.html">caixa01</a>
+            </li>
+            <li>
+                <a href="https://felipemorais19.github.io/html-css/exercicios/ex021/caixa02.html">caixa02</a>
+            </li>
+            <li>
+                <a href="https://felipemorais19.github.io/html-css/exercicios/ex021/caixa03.html">caixa03</a>
             </li>
         </ul>
 </ul>
