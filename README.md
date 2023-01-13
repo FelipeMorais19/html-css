@@ -7,6 +7,9 @@
     <li>
         <a href="https://felipemorais19.github.io/html-css/exercicios/ex001/index.html"> 001</a>
     </li>
+    <li>
+        <a href="https://felipemorais19.github.io/html-css/exercicios/ex001/index.html"> 002</a>
+    </li>
 </ul>
 
 <p>Abrir os seguintes desafios: </p>
