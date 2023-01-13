@@ -40,10 +40,10 @@
         <a href="https://felipemorais19.github.io/html-css/exercicios/ex008b/index.html"> 008b</a>
     </li>
     <li>
-        <a href="https://felipemorais19.github.io/html-css/exercicios/ex009/index.html"></a>
+        <a href="https://felipemorais19.github.io/html-css/exercicios/ex009/index.html">009</a>
     </li>
     <li>
-        <a href="https://felipemorais19.github.io/html-css/exercicios/ex010/index.html"></a>
+        <a href="https://felipemorais19.github.io/html-css/exercicios/ex010/index.html">010</a>
     </li>
 </ul>
 
