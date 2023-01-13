@@ -50,14 +50,30 @@
     </li>
     <li>
         <a href="https://felipemorais19.github.io/html-css/exercicios/ex012/index.html">012</a>
-    </li><li>
+    </li>
+    <li>
         <a href="https://felipemorais19.github.io/html-css/exercicios/ex013/index.html">013</a>
     </li>
     <li>
         <a href="https://felipemorais19.github.io/html-css/exercicios/ex014/index.html">014</a>
-    </li><li>
+    </li>
+    <li>
         <a href="https://felipemorais19.github.io/html-css/exercicios/ex015/index.html">015</a>
     </li>
+    <li>
+        016
+    </li>
+        <ul>
+            <li>
+                <a href="https://felipemorais19.github.io/html-css/exercicios/ex015/cor01.html">cor01</a>
+            </li>
+            <li>
+                <a href="https://felipemorais19.github.io/html-css/exercicios/ex015/cor02.html">cor02</a>
+            </li>
+            <li>
+                <a href="https://felipemorais19.github.io/html-css/exercicios/ex015/cor03.html">cor03</a>
+            </li>
+        </ul>   
 </ul>
 
 <p>Abrir os seguintes desafios: </p>
