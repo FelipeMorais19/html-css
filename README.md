@@ -74,7 +74,7 @@
                 <a href="https://felipemorais19.github.io/html-css/exercicios/ex016/cor03.html">cor03</a>
             </li>
         </ul>   
-        <li>
+    <li>
         017
     </li>
         <ul>
@@ -83,6 +83,17 @@
             </li>
             <li>
                 <a href="https://felipemorais19.github.io/html-css/exercicios/ex017/fonte02.html">fonte02</a>
+            </li>
+        </ul>
+    <li>
+        017
+    </li>
+        <ul>
+            <li>
+                <a href="https://felipemorais19.github.io/html-css/exercicios/ex018/fonte01.html">fonte01</a>
+            </li>
+            <li>
+                <a href="https://felipemorais19.github.io/html-css/exercicios/ex018/fonte02.html">fonte02</a>
             </li>
         </ul>
 </ul>
