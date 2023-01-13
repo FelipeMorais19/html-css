@@ -153,7 +153,7 @@
 
 <ul>
     <li>
-        <a href="https://felipemorais19.github.io/html-css/desafios/desafio01/index.html">01</a>
+        <a href="https://felipemorais19.github.io/html-css/desafios/desafio01">01</a>
     </li>
     <li>
         <a href="https://felipemorais19.github.io/html-css/desafios/desafio02/index.html">02</a>
