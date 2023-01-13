@@ -45,6 +45,19 @@
     <li>
         <a href="https://felipemorais19.github.io/html-css/exercicios/ex010/index.html">010</a>
     </li>
+    <li>
+        <a href="https://felipemorais19.github.io/html-css/exercicios/ex011/index.html">011</a>
+    </li>
+    <li>
+        <a href="https://felipemorais19.github.io/html-css/exercicios/ex012/index.html">012</a>
+    </li><li>
+        <a href="https://felipemorais19.github.io/html-css/exercicios/ex013/index.html">013</a>
+    </li>
+    <li>
+        <a href="https://felipemorais19.github.io/html-css/exercicios/ex014/index.html">014</a>
+    </li><li>
+        <a href="https://felipemorais19.github.io/html-css/exercicios/ex015/index.html">015</a>
+    </li>
 </ul>
 
 <p>Abrir os seguintes desafios: </p>
