@@ -22,6 +22,9 @@
     <li>
         <a href="https://felipemorais19.github.io/html-css/exercicios/ex006/index.html">006</a>
     </li>
+    <li>
+        007
+    </li>
         <ul>
             <li>
                 <a href="https://felipemorais19.github.io/html-css/exercicios/ex007/html4.html">007--html4</a>
