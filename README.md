@@ -146,6 +146,9 @@
             <li>
                 <a href="https://felipemorais19.github.io/html-css/exercicios/ex022/fundo005.html">fundo005</a>
             </li>
+            <li>
+                <a href="https://felipemorais19.github.io/html-css/exercicios/ex022/fundo006.html">fundo006</a>
+            </li>
         </ul>
 </ul>
 
