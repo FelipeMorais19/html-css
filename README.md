@@ -1,11 +1,5 @@
 # html-css
 
-<style>
-    body{
-            background-image: url('background.jpg');
-        }
-</style>
-
 <h1>Curso de HTML5 e CSS3 do CursoemVideo</h1>
 
 <p>Abrir os seguintes exercicios: </p>
